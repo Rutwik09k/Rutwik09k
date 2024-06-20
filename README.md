@@ -1,5 +1,4 @@
 
-![logo](https://github.com/Rutwik09k/Rutwik09k/blob/main/RUTWIK%20KAMTHE.png)
 <h1 align="center">Hi 👋, I'm Rutwik</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
