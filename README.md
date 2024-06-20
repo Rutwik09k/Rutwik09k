@@ -4,8 +4,6 @@
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/thumbnail/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutwik09k&label=Profile%20views&color=0e75b6&style=flat" alt="rutwik09k" /> </p>
-
 - 💬 Ask me about **Java,SpringBoot,MYSQL**
 
 - ⚡ Fun fact **Introvert**
