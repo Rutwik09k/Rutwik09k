@@ -6,6 +6,12 @@
 
 - 💬 Ask me about **Java,SpringBoot,MYSQL**
 
+- 🌱 I’m currently learning **SprigBoot and MicroServices**
+
+- 💬 Ask me about **Java,SpringBoot,MYSQL**
+
+- 📫 How to reach me **kamtherutwik9@gmail.com**
+
 - ⚡ Fun fact **Introvert**
 
 <h3 align="left">Connect with me:</h3>
